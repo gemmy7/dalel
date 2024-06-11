@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55884219577",
+    "project_id": "dalel-fd27c",
+    "storage_bucket": "dalel-fd27c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55884219577:android:4bb4dd1ce12ce18a190768",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6OdeGec5s2CW14-VSFkopCqv7CsI3fv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
